@@ -1,0 +1,14 @@
+{
+  "name": "superpad",
+  "version": "1.0.0",
+  "description": "It pads strings really superly",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "author": "Tomas Varneckas",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^20.0.4"
+  }
+}
